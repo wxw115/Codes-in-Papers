@@ -1,1 +1,1 @@
-#This page will provide codes for journal papers. Each fold indicate the [Journal Name Abbreviation]_CodeName
+#This page provides codes for my journal papers. Each fold indicate the [Journal Name Abbreviation]_CodeName
