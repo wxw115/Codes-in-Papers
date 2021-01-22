@@ -1,6 +1,6 @@
 #FOSID Codes:
 
-The following files are used for computing a novel fractional order seismic intensity measure called FOSID (Fractional Order Spectrum intensity enhanced with Integral period and Damping ratio) in Wang et al. (2021). Put them in the same directory. Send question email to Xiaowei Wang at "wxwangus@gmail.com" or "wxwangus@163.com".
+The following files are used for computing a novel fractional order seismic intensity measure called FOSID (Fractional Order Spectrum intensity enhanced with Integral period and Damping ratio) in Wang et al. (2021). Put the four files in the same directory and execute "fosid_example.m". Users can change the key parameters of FOSID in "fosid_example.m". Send question email to Xiaowei Wang at "wxwangus@gmail.com" or "wxwangus@163.com".
 
 -- "fosid_example.m" is the main file for computing FOSID, Eq.(12) in Wang et al. (2021).
 
