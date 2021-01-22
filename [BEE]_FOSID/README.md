@@ -14,4 +14,4 @@ Reference:
 
 Wang X., Shafieezadeh A., and Padgett J.E. (2021) FOSID: Fractional Order Spectrum intensity enhanced with Integral period and Damping ratio for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bulletin of Earthquake Engineering (In Review, Manuscript Number: BEEE-D-20-00397R1)
 
-Contributors: Xiaowei Wang, Abodollah Shafieezadeh, and Jamie Ellen Padgett
+Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
