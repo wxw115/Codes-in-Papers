@@ -4,7 +4,7 @@ The following files are used for computing a novel fractional order seismic inte
 
 -- "fosid_example.m" is the main file for computing FOSID, Eq.(12) in Wang et al. (2021).
 
--- "ora_foc.m" is the Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen. Please find more details inclduing the references and contact information in this file.
+-- "ora_foc.m" is the Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen. Please find more details including the references and contact information from this file.
 
 -- "SAFracSDoF_AccResponse.mdl" is the Matlab/Simulink-based architecture representing a damped single-degree-of-freedom (SDOF) system considering fractional order responses.
 
