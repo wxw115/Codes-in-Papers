@@ -6,7 +6,7 @@ The following files are used for computing a novel fractional order seismic inte
 
 -- "ora_foc.m" is the Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen. Please find more details including the references and contact information from this file.
 
--- "SAFracSDoF_AccResponse.mdl" is the Matlab/Simulink-based architecture representing a damped single-degree-of-freedom (SDOF) system considering fractional order responses.
+-- "SAFracSDoF_AccResponse.mdl" is the Matlab/Simulink-based architecture representing a traditionally damped single-degree-of-freedom (SDOF) system with fractional order responses.
 
 -- "Acc(g).acc" is the example ground acceleration file (Unit: g) for Fig.1 in Wang et al. (2021).
 
