@@ -5,13 +5,13 @@ Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 Contact email: wxwangus@gmail.com (Xiaowei Wang)
 
 File descriptions:
--- "FOSID_example.m": Main file for computing FOSID given in Equation (12) in Wang et al. (2021), or Eq. (1) in the following Appendix.
+-- "FOSID_example.m": Main file for computing FOSID given in Equation (12) in Wang et al. (2021).
 
 -- "ora_foc.m": Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen (Xue et al., 2006). Please find more details on the references and contact information in this file. Note that this file is used in the main file.
 
 -- "SAFracSDoF_AccResponse.mdl": Matlab/Simulink-based architecture representing a damped single-degree-of-freedom (SDOF) system considering fractional order responses. This file is used in the mail file.
 
--- "Acc(g).acc": Example ground acceleration (Unit:g) file for Figure 1 in Wang et al. (2021), also Figure 1 in the following Appendix.
+-- "Acc(g).acc": Example ground acceleration (Unit:g) file for Figure 1 in Wang et al. (2021).
 
 -- "FOSID_result.mat": Output file from FOSID_example.m, including the result of FOSID.
 
