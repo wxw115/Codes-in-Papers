@@ -1,5 +1,7 @@
 #Matlab codes for computing FOSID
+
 Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
+
 Contact email: wxwangus@gmail.com (Xiaowei Wang)
 
 File descriptions:
