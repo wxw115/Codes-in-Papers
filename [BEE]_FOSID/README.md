@@ -1,17 +1,28 @@
-#FOSID Codes:
+#Matlab codes for computing FOSID
+Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
+Contact email: wxwangus@gmail.com (Xiaowei Wang)
 
-The following files are used for computing a novel fractional order seismic intensity measure called FOSID (Fractional Order Spectrum intensity enhanced with Integral period and Damping ratio) in Wang et al. (2021). Put the four files in the same directory and execute "fosid_example.m". Users can change the key parameters of FOSID in "fosid_example.m". Send question email to Xiaowei Wang at "wxwangus@gmail.com" or "wxwangus@163.com".
+File descriptions:
+-- "FOSID_example.m": Main file for computing FOSID given in Equation (12) in Wang et al. (2021), or Eq. (1) in the following Appendix.
 
--- "fosid_example.m" is the main file for computing FOSID, Eq.(12) in Wang et al. (2021).
+-- "ora_foc.m": Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen (Xue et al., 2006). Please find more details on the references and contact information in this file. Note that this file is used in the main file.
 
--- "ora_foc.m" is the Oustaloup-Recursive-Approximation for fractional order differentiator developed by Prof. YangQuan Chen. Please find more details including the references and contact information from this file.
+-- "SAFracSDoF_AccResponse.mdl": Matlab/Simulink-based architecture representing a damped single-degree-of-freedom (SDOF) system considering fractional order responses. This file is used in the mail file.
 
--- "SAFracSDoF_AccResponse.mdl" is the Matlab/Simulink-based architecture representing a traditionally damped single-degree-of-freedom (SDOF) system with fractional order responses.
+-- "Acc(g).acc": Example ground acceleration (Unit:g) file for Figure 1 in Wang et al. (2021), also Figure 1 in the following Appendix.
 
--- "Acc(g).acc" is the example ground acceleration file (Unit: g) for Fig.1 in Wang et al. (2021).
+-- "FOSID_result.mat": Output file from FOSID_example.m, including the result of FOSID.
+
+Main files:
+FOSID_example.m
+	Inputs:
+		“ora_foc.m”
+		“SAFracSDoF_AccResponse.mdl”
+		“Acc(g).acc”
+	Outputs: 
+		“FOSID_result.mat”
 
 Reference:
+Wang X., Shafieezadeh A., and Padgett J.E. (2021) FOSID: A fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bulletin of Earthquake Engineering
 
-Wang X., Shafieezadeh A., and Padgett J.E. (2021) FOSID: A fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bulletin of Earthquake Engineering (In Review, Manuscript Number: BEEE-D-20-00397R1)
 
-Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
