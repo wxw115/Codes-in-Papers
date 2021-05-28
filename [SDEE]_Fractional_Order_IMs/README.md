@@ -30,6 +30,6 @@ Send question emails to "wxwangus@gmail.com" or "wxwangus@163.com" (Xiaowei Wang
 
 References:
 
-Wang X, Ye A, Shafieezadeh A, Padgett JE (2019) Fractional order optimal intensity measures for probabilistic seismic demand modeling of extended pile-shaft-supported bridges in liquefiable and laterally spreading ground. Soil Dyn Earthq Eng 120:301-315. https://doi.org/10.1016/j.soildyn.2019.02.012
+Wang X, Ye A, Shafieezadeh A*, Padgett JE (2019) Fractional order optimal intensity measures for probabilistic seismic demand modeling of extended pile-shaft-supported bridges in liquefiable and laterally spreading ground. Soil Dyn Earthq Eng 120:301-315. https://doi.org/10.1016/j.soildyn.2019.02.012
 
-Shafieezadeh A, Ramanathan K, Padgett JE, DesRoches R (2012) Fractional order intensity measures for probabilistic seismic demand modeling applied to highway bridges. Earthq Eng Struct Dyn 41:391-409. https://doi.org/10.1002/eqe.1135
+Shafieezadeh A*, Ramanathan K, Padgett JE, DesRoches R (2012) Fractional order intensity measures for probabilistic seismic demand modeling applied to highway bridges. Earthq Eng Struct Dyn 41:391-409. https://doi.org/10.1002/eqe.1135
