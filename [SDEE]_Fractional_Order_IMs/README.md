@@ -1,5 +1,5 @@
-Put the following files in the same directory and execute "~.m" files for individual fractional order (FO) intensity measures (IMs) in Wang et al. (2019).
-Users can change the key parameter(s) of each FO IM in the corresponding "~.m" file.
+Put the following files in the same directory and execute ~.m files for individual fractional order (FO) intensity measures (IMs) in Wang et al. (2019).
+Users can change the key parameter(s) of each FO IM in the corresponding ~.m file.
 Send question emails to "wxwangus@gmail.com" or "wxwangus@163.com" (Xiaowei Wang)
 
 -- "PGR_alpha.m" for computing the FO IM, Fractional Peak Response, Eq.(9) in Wang et al. (2019).
@@ -28,6 +28,7 @@ Send question emails to "wxwangus@gmail.com" or "wxwangus@163.com" (Xiaowei Wang
 
 
 References:
+
 Wang X, Ye A, Shafieezadeh A, Padgett JE (2019) Fractional order optimal intensity measures for probabilistic seismic demand modeling of extended pile-shaft-supported bridges in liquefiable and laterally spreading ground. Soil Dyn Earthq Eng 120:301-315. https://doi.org/10.1016/j.soildyn.2019.02.012
 
 Shafieezadeh A, Ramanathan K, Padgett JE, DesRoches R (2012) Fractional order intensity measures for probabilistic seismic demand modeling applied to highway bridges. Earthq Eng Struct Dyn 41:391-409. https://doi.org/10.1002/eqe.1135
