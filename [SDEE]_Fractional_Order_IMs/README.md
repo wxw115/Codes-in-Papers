@@ -1,3 +1,7 @@
+Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
+
+Instruction:
+
 Put the following files in the same directory and execute ~.m files for individual fractional order (FO) intensity measures (IMs) in Wang et al. (2019).
 Users can change the key parameter(s) of each FO IM in the corresponding ~.m file.
 Send question emails to "wxwangus@gmail.com" or "wxwangus@163.com" (Xiaowei Wang)
