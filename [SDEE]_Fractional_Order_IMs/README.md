@@ -1,4 +1,4 @@
-Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
+Code Main Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 
 Instruction:
 
