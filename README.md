@@ -2,7 +2,7 @@
 
 [BEE]_FOSID refers to the FOSID MATLAB Codes for Wang et al. (2021):
 
-Wang X, Shafieezadeh A, Padgett JE (2021) FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bull Earthq Eng. https://doi.org/10.1007/s10518-021-01082-4
+Wang X, Shafieezadeh A, Padgett JE (2021) FOSID: A fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bull Earthq Eng 19:2531–2559. https://doi.org/10.1007/s10518-021-01082-4
 
 
 [SDEE]_Fractional_Order_IMs refers to the MATLAB Codes for Wang et al. (2019):
