@@ -13,7 +13,7 @@ Seismic Fragility Analyses of Highway Bridges." Earthquake Engineering and Resil
    
 -- N_Q_optimization.py
    Python code for ANN architecture optimization on the number of hidden layers (N) and the number of neruons in each hiden layer (Q). 
-   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and modifed by Dr. Xiaowei Wang (xwang@case.edu)
+   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu)
    
 -- 100_EER.py
    Pyhton code for 100 runs of ANN modeling based on Database_20200111.xlsx and the identified optimal N=2 and Q=12. 
