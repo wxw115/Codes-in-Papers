@@ -6,6 +6,11 @@
 
 Wang X, Shafieezadeh A, Padgett JE (2021) FOSID: A fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bull Earthq Eng 19:2531–2559. https://doi.org/10.1007/s10518-021-01082-4
 
+==================================================
+
+[EER]_Data_Driven_Curvature_Capacity4Fragilty: Python code of machine learning model for rapid estimates of multi-level curvature capacity of circular reinforced concrete section in Wang et al. (2022):
+
+Wang X, Yuan X, Feng R, and Dong Y. (202X) “Data-driven probabilistic curvature capacity modeling of circular rc columns facilitating seismic fragility analyses of highway bridges.” Earthquake Engineering and Resilience. (in press)
 
 ==================================================
 
