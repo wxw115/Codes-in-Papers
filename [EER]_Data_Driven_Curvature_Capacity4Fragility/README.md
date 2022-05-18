@@ -17,8 +17,8 @@ Seismic Fragility Analyses of Highway Bridges." Earthquake Engineering and Resil
    
 -- 100_EER.py: 
    Pyhton code for 100 runs of ANN modeling based on Database_20200111.xlsx and the identified optimal N=2 and Q=12. 
-   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xwang@case.edu)
+   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xiaoweiwang@tongji.edu.cn)
    
 -- 100_EER_Application.py: 
    Pyhton code for 100 runs of ANN model application based on D1.6m_20200111.xlsx and the identified optimal N=2 and Q=12. 
-   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xwang@case.edu)
+   This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xiaoweiwang@tongji.edu.cn)
