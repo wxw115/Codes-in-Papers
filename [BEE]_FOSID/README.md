@@ -2,7 +2,7 @@
 
 Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 
-Contact email: wxwangus@gmail.com (Xiaowei Wang)
+Contact email: xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
 
 File descriptions:
 -- "FOSID_example.m": Main file for computing FOSID given in Equation (12) in Wang et al. (2021).
