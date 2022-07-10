@@ -1,7 +1,7 @@
 Instruction:
 Put the following files in the same directory and execute ~.m files for individual fractional order (FO) intensity measures (IMs) in Wang et al. (2019).
 Users can change the key parameter(s) of each FO IM in the corresponding ~.m file.
-Send question emails to "wxwangus@gmail.com" (Xiaowei Wang)
+Send question emails to xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
 
 -- "PGR_alpha.m" for computing the FO IM, Fractional Peak Response, Eq.(9) in Wang et al. (2019).
 
