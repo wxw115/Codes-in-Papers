@@ -1,6 +1,8 @@
 # Database and Python Codes for Efficient Estimates of Multi-Level Limit States of Reinforced Concrete Bridge Column Sections
 ###### Contributors: Ruiwei Feng, Xinzhe Yuan, Xiaowei Wang, and You Dong
 
+###### File Description:
+
 -- Database_20200111.xlsx: 
    Database used for Artificial Neural Network (ANN) model training and evaluation. 
    This database is created using OpenSeesPy by Dr. Ruiwei Feng (ruiwei.feng@polyu.edu.hk)
