@@ -1,4 +1,4 @@
-###### This page provides codes for my co-authored journal papers. Each fold indicates the [Journal Name Abbreviation]_CodeName
+###### This page provides codes and/or databases for my authored/co-authored journal papers. Each fold indicates the [JournalNameAbbreviation]_CodeNameAbbreviation
 
 ## [[BEE]_FOSID](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BBEE%5D_FOSID) 
 ###### MATLAB Codes for calculating a novel seismic intensity measure, FOSID proposed in Wang et al. (2021):
