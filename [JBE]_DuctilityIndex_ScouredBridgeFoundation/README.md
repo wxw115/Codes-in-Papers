@@ -1,4 +1,6 @@
-# This fold contains the database and associated Classification-Regression Combination Model (CRCM) (both in spreadsheet) for the following paper:
+# Database for CRCM Development for Easy-to-Repair Ductility Indice Estimates of Scoured Bridge Pile-Group Foundation
+
+This fold contains the database and associated Classification-Regression Combination Model (CRCM) (both in spreadsheet) for the following paper:
 
 Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, under review.
 
