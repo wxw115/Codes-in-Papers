@@ -6,6 +6,6 @@ This fold contains the database and associated Classification-Regression Combina
 
 The following files are created by the first author, Mr. Jingcheng Wang, Email: jc_wang@tongji.edu.cn
 
-**-- _Database.xlsx_: Database including input variables (soil-bridge parameters) and output variables (type of failure process, displacement ductility factor, and strength hardening factor) used for surrogate modeling of the ductility indices of scoured bridge pile-group foundations at the easy-to-repair limit state.**
+**-- _Database.xlsx_**: Database including input variables (soil-bridge parameters) and output variables (type of failure process, displacement ductility factor, and strength hardening factor) used for surrogate modeling of the ductility indices of scoured bridge pile-group foundations at the easy-to-repair limit state.
 
-**-- _Classification_Regression_Combination_Model.xlsx_: A spreadsheet for the implementation of the developed CRCM. Please change the input variables to obtain the ductility indices.**
+**-- _Classification_Regression_Combination_Model.xlsx_**: A spreadsheet for the implementation of the developed CRCM. Please change the input variables to obtain the ductility indices.
