@@ -3,11 +3,11 @@
 
 -- Database_20200111.xlsx: 
    Database used for Artificial Neural Network (ANN) model training and evaluation. 
-   This database is created using OpenSeesPy by Dr.Ruiwei Feng (ruiwei.feng@polyu.edu.hk)
+   This database is created using OpenSeesPy by Dr. Ruiwei Feng (ruiwei.feng@polyu.edu.hk)
    
 -- D1.6m_20200111.xlsx: 
    The first sheet contains the normalized dataset of input variables for the case study bridge in Chapter 4 of the paper. 
-   This database is created by Dr.Ruiwei Feng (ruiwei.feng@polyu.edu.hk)
+   This database is created by Dr. Ruiwei Feng (ruiwei.feng@polyu.edu.hk)
    
 -- N_Q_optimization.py: 
    Python code for ANN architecture optimization on the number of hidden layers (N) and the number of neruons in each hiden layer (Q). 
