@@ -1,4 +1,4 @@
-# Spreedsheets for Database and Classification-Regression Combination Model (CRCM) in Wang et al. (202X) for Ductility Index Estimates of Scoured Bridge Pile-Group Foundation at Easy-to-Repair Limit State (ERLS)
+# Spreadsheets for Database and Classification-Regression Combination Model (CRCM) in Wang et al. (202X) for Ductility Index Estimates of Scoured Bridge Pile-Group Foundation at the Easy-to-Repair Limit State (ERLS)
 ###### Contributors: Jingcheng Wang, Aijun Ye, and Xiaowei Wang
 ###### Contact Email: jc_wang@tongji.edu.cn (Jingcheng Wang, the first author who created the spreedsheet files)
 
