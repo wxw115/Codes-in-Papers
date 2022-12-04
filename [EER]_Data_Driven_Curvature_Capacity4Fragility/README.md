@@ -22,4 +22,4 @@
    This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xiaoweiwang@tongji.edu.cn)
 
 ###### Reference:
-###### Wang, X., Yuan, X., Feng, R., Dong, Y., 2022. Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges. Earthquake Engineering and Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
+###### Wang, X., Yuan, X., Feng, R.*, Dong, Y., 2022. Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges. Earthquake Engineering and Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
