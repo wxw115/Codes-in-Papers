@@ -15,14 +15,14 @@ File descriptions:
 
 **-- "FOSID_result.mat"**: Output file from FOSID_example.m, including the result of FOSID.
 
-Main files:
-FOSID_example.m
-	Inputs:
-		“ora_foc.m”
-		“SAFracSDoF_AccResponse.mdl”
-		“Acc(g).acc”
-	Outputs: 
-		“FOSID_result.mat”
+#### Main files:
+#### FOSID_example.m
+####	Inputs:
+####		“ora_foc.m”
+####		“SAFracSDoF_AccResponse.mdl”
+####		“Acc(g).acc”
+####	Outputs: 
+####		“FOSID_result.mat”
 
 ###### References:
 ###### Wang, X., Shafieezadeh, A., and Padgett, J. E. (2021) "FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading." Bulletin of Earthquake Engineering, 19(6): 2531-2559. https://doi.org/10.1007/s10518-021-01082-4
