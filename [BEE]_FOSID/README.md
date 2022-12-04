@@ -4,7 +4,7 @@
 
 ###### Contact Email: xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
 
-###### File descriptions:
+###### File Description:
 
 **-- "FOSID_example.m"**: Main file for computing FOSID given in Equation (12) in Wang et al. (2021).
 
