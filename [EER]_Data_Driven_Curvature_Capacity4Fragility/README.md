@@ -1,6 +1,5 @@
-This fold contains the database and python codes for the following paper:
-
-Wang, X., Yuan, X., Feng, R., Dong, Y., 2022. Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges. Earthquake Engineering and Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
+# Database and Python Codes for Efficient Estimates of Multi-Level Limit States of Reinforced Concrete Bridge Column Sections
+###### Contributors: Ruiwei Feng, Xinzhe Yuan, Xiaowei Wang, and You Dong
 
 -- Database_20200111.xlsx: 
    Database used for Artificial Neural Network (ANN) model training and evaluation. 
@@ -21,3 +20,6 @@ Wang, X., Yuan, X., Feng, R., Dong, Y., 2022. Data‐driven probabilistic curvat
 -- 100_EER_Application.py: 
    Pyhton code for 100 runs of ANN model application based on D1.6m_20200111.xlsx and the identified optimal N=2 and Q=12. 
    This code is created by Dr. Xinzhe Yuan (xyvm4@mst.edu) and Dr. Xiaowei Wang (xiaoweiwang@tongji.edu.cn)
+
+###### Reference:
+###### Wang, X., Yuan, X., Feng, R., Dong, Y., 2022. Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges. Earthquake Engineering and Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
