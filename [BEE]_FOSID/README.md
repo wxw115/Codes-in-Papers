@@ -19,7 +19,7 @@ File descriptions:
 #### -- FOSID_example.m
 ######	Inputs:
 #### -- “ora_foc.m”, “SAFracSDoF_AccResponse.mdl”, “Acc(g).acc”.	
-#######	Outputs: 
+######	Output: 
 #### -- “FOSID_result.mat”
 
 ###### References:
