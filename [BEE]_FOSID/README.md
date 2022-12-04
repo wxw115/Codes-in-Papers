@@ -1,4 +1,4 @@
-# Matlab codes for computing FOSID
+# Matlab Codes for Computing FOSID, An Advanced Intensity Measure for PSDM of Bridges Against Liquefaction and Lateral Spreading
 
 ###### Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 
