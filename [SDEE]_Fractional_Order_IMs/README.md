@@ -36,3 +36,5 @@ Users can change the key parameter(s) of each FO IM in the corresponding ~.m fil
 ###### Wang X, Ye A, Shafieezadeh A, Padgett JE (2019) Fractional order optimal intensity measures for probabilistic seismic demand modeling of extended pile-shaft-supported bridges in liquefiable and laterally spreading ground. Soil Dyn Earthq Eng 120:301-315. https://doi.org/10.1016/j.soildyn.2019.02.012
 
 ###### Shafieezadeh A, Ramanathan K, Padgett JE, DesRoches R (2012) Fractional order intensity measures for probabilistic seismic demand modeling applied to highway bridges. Earthq Eng Struct Dyn 41:391-409. https://doi.org/10.1002/eqe.1135
+
+###### Wang, X., Shafieezadeh, A., and Padgett, J. E. (2021) "FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading." Bulletin of Earthquake Engineering, 19(6): 2531-2559. https://doi.org/10.1007/s10518-021-01082-4
