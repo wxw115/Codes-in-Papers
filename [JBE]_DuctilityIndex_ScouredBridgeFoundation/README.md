@@ -6,7 +6,7 @@
 
 **-- _Classification_Regression_Combination_Model.xlsx_**: A spreadsheet for the implementation of the developed CRCM. Please change the input variables to obtain the ductility indices.
 
-###### Reference:
+###### References:
 ###### Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, *_Under Review_*.
 
 ###### Blanco G., Ye A., Wang X., and Goicolea J. (2019) “Parametric pushover analysis on elevated RC pile-cap foundations for bridges in cohesionless soils.” Journal of Bridge Engineering, 24(1): 04018104. https://doi.org/10.1061/(ASCE)BE.1943-5592.0001328
