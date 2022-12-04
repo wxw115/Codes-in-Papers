@@ -1,7 +1,6 @@
 ###### This page provides codes for my co-authored journal papers. Each fold indicates the [Journal Name Abbreviation]_CodeName
 
-### [[BEE]_FOSID](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BBEE%5D_FOSID) 
-###### MATLAB Codes for calculating a novel seismic intensity measure, FOSID proposed in Wang et al. (2021):
+### [[BEE]_FOSID](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BBEE%5D_FOSID) ###### MATLAB Codes for calculating a novel seismic intensity measure, FOSID proposed in Wang et al. (2021):
 Wang X, Shafieezadeh A, Padgett JE (2021) FOSID: A fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading. Bull Earthq Eng 19:2531–2559. https://doi.org/10.1007/s10518-021-01082-4
 
 ### [[EER]_Data_Driven_Curvature_Capacity4Fragilty](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BBEE%5D_FOSID)
