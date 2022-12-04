@@ -25,6 +25,6 @@ FOSID_example.m
 		“FOSID_result.mat”
 
 ###### Reference:
-Wang, X., Shafieezadeh, A., and Padgett, J. E. (2021) "FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading." Bulletin of Earthquake Engineering, (0123456789). https://doi.org/10.1007/s10518-021-01082-4
-
-
+###### Wang, X., Shafieezadeh, A., and Padgett, J. E. (2021) "FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading." Bulletin of Earthquake Engineering, 19(6): 2531-2559. https://doi.org/10.1007/s10518-021-01082-4
+###### Wang X., Ye A., Shafieezadeh A., and Padgett J.E. (2019) “Fractional order optimal intensity measures for probabilistic seismic demand modeling of extended pile-shaft-supported bridges in liquefiable and laterally spreading ground.” Soil Dynamics and Earthquake Engineering, 120: 301-315. https://doi.org/10.1016/j.soildyn.2019.02.012
+###### Shafieezadeh A, Ramanathan K, Padgett JE, DesRoches R. (2012) "Fractional order intensity measures for probabilistic seismic demand modeling applied to highway bridges." Earthquake Engineering and Structural Dynamics, 41(3): 391–409. https://doi.org/10.1002/eqe.1135
