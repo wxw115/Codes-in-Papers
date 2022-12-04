@@ -2,7 +2,7 @@
 
 ###### Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 
-###### Contact email: xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
+###### Contact Email: xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
 
 ###### File descriptions:
 
