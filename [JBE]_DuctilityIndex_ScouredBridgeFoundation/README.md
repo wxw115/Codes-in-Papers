@@ -1,6 +1,6 @@
 # Spreadsheets for Database and Classification-Regression Combination Model (CRCM) in Wang et al. (202X) for Ductility Index Estimates of Scoured Bridge Pile-Group Foundations at the Easy-to-Repair Limit State (ERLS)
 ###### Contributors: Jingcheng Wang, Aijun Ye, and Xiaowei Wang
-###### Contact Email: jc_wang@tongji.edu.cn (Jingcheng Wang, the first author who created the spreedsheet files)
+###### Contact Email: jc_wang@tongji.edu.cn (Jingcheng Wang, the first author who created the spreadsheet files)
 
 **-- _Database.xlsx_**: Database including input variables (soil-bridge parameters) and output variables (type of failure process, displacement ductility factor, and strength hardening factor) used for surrogate modeling of the ductility indices of scoured bridge pile-group foundations at the easy-to-repair limit state.
 
