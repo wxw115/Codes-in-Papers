@@ -1,4 +1,4 @@
-# Database for CRCM Development for Easy-to-Repair Ductility Indice Estimates of Scoured Bridge Pile-Group Foundation
+# Database for CRCM Development for Ductility Index Estimates of Scoured Bridge Pile-Group Foundation at Easy-to-Repair Limit State (ERLS)
 
 This fold contains the database and associated Classification-Regression Combination Model (CRCM) (both in spreadsheet) for the following paper:
 
