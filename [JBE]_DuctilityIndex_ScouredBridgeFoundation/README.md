@@ -2,7 +2,7 @@
 
 This fold contains the database and associated Classification-Regression Combination Model (CRCM) (both in spreadsheet) for the following paper:
 
-Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, under review.
+***Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, under review.***
 
 The following files are created by the first author, Mr. Jingcheng Wang, Email: jc_wang@tongji.edu.cn
 
