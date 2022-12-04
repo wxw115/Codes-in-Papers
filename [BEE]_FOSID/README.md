@@ -1,4 +1,4 @@
-#Matlab codes for computing FOSID
+# Matlab codes for computing FOSID
 
 Contributors: Xiaowei Wang, Abdollah Shafieezadeh, and Jamie Ellen Padgett
 
@@ -24,7 +24,7 @@ FOSID_example.m
 	Outputs: 
 		“FOSID_result.mat”
 
-Reference:
+###### Reference:
 Wang, X., Shafieezadeh, A., and Padgett, J. E. (2021) "FOSID: a fractional order spectrum intensity for probabilistic seismic demand modeling of extended pile-shaft-supported highway bridges under liquefaction and transverse spreading." Bulletin of Earthquake Engineering, (0123456789). https://doi.org/10.1007/s10518-021-01082-4
 
 
