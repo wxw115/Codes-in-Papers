@@ -16,7 +16,7 @@
 
 **-- "FOSID_result.mat"**: Output file from FOSID_example.m, including the result of FOSID.
 
-###### Main files:
+###### Main Files:
 #### -- FOSID_example.m
 ######	Inputs:
 #### -- “ora_foc.m”, “SAFracSDoF_AccResponse.mdl”, “Acc(g).acc”.	
