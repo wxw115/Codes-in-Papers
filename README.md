@@ -6,7 +6,7 @@
 
 ## [[EER]_Data_Driven_Curvature_Capacity4Fragilty](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BBEE%5D_FOSID)
 ###### Python Code of a machine learning model for rapid estimates of multi-level curvature capacity of circular reinforced concrete section in Wang et al. (2022):
-##### Wang, X, Yuan, X, Feng, R, Dong, Y (2022) "Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges." Earthq Eng Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
+##### Wang X, Yuan X, Feng R, Dong Y (2022) "Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges." Earthq Eng Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
 
 ## [[JBE]_DuctilityIndex_ScouredBridgeFoundation](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BJBE%5D_DuctilityIndex_ScouredBridgeFoundation)
 ###### Spredsheets for the database and the proposed Classification-Regression Combination Model (CRCM) for ductility index prediction of scoured bridge pile-group foundations at the easy-to-repair limit state, as detailed in Wang et al. (2023):
