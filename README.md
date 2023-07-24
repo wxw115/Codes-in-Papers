@@ -10,7 +10,7 @@
 
 ## [[JBE]_DuctilityIndex_ScouredBridgeFoundation](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BJBE%5D_DuctilityIndex_ScouredBridgeFoundation)
 ###### Spredsheets for the database and the proposed Classification-Regression Combination Model (CRCM) for ductility index prediction of scoured bridge pile-group foundations at the easy-to-repair limit state, as detailed in Wang et al. (202X):
-##### Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, Under Review
+##### Wang J., Ye A., and Wang X. (202X) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, Accepted in press. https://doi.org/10.1061/JBENF2/BEENG-6201
 
 ## [[SDEE]_Fractional_Order_IMs](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BSDEE%5D_Fractional_Order_IMs)
 ###### MATLAB Codes for calculating a series of novel fractional order seismic intensity measures in Wang et al. (2019):
