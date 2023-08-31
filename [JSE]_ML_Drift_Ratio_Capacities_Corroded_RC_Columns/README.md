@@ -1,4 +1,4 @@
-# Dataset for machine learning-aided multi-level drift ratio capacity estimates of corroded circular RC bridge columns with flexure-failure
+# Dataset for Machine Learning-Aided Multi-Level Drift Ratio Capacity Estimates of Flexure-Failure-Identified Corroded Circular RC Bridge Columns
 ###### Contributors: Bo Xu, Xiaowei Wang, Chuang-Sheng Walter Yang, and Yue Li
 ###### Contact Email: boxu@case.edu (Bo Xu, the first author who created the dataset), and xiaoweiwang@tongji.edu.cn (Xiaowei Wang)
 
