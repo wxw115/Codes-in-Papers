@@ -12,8 +12,8 @@
 ###### Spredsheets for the database and the proposed Classification-Regression Combination Model (CRCM) for ductility index prediction of scoured bridge pile-group foundations at the easy-to-repair limit state, as detailed in Wang et al. (2023):
 ##### Wang J, Ye A, and Wang X (2023) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, Accepted in press. https://doi.org/10.1061/JBENF2/BEENG-6201
 
-## [[JSE]_ML_Drift_Ratio_Capacities_Corroded_RC_Columns]
-###### Database for multi-level drift ratios of corroded RC circular bridge columns, as detailed in Xu et al. (202X):
+## [[JSE]_ML_Drift_Ratio_Capacities_Corroded_RC_Columns](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BJSE%5D_ML_Drift_Ratio_Capacities_Corroded_RC_Columns)
+###### Dataset for multi-level drift ratio capacity estimates of corroded RC circular bridge columns with flexure-failure, as detailed in Xu et al. (202X):
 ##### Xu B, Wang X, Yang CS, and Li Y (202X) “Machine learning-aided rapid estimation of multi-level capacity of flexure-identified circular concrete bridge columns with corroded reinforcement.” Journal of Structural Engineering, R1 under review.
 
 ## [[SDEE]_Fractional_Order_IMs](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BSDEE%5D_Fractional_Order_IMs)
