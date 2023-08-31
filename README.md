@@ -14,7 +14,7 @@
 
 ## [[JSE]_Database_4_Drift_Ratios_Corroded_RC_Columns]
 ###### Database for multi-level drift ratios of corroded RC circular bridge columns, as detailed in Xu et al. (202X):
-##### Xu B, Wang X, Yang CS, and Li Y (202X) “Machine Learning-Aided Rapid Estimation of Multi-Level Capacity of Flexure-Identified Circular Bridge Concrete Bridge Columns with Corroded Reinforcement.” Journal of Structural Engineering, R1 under review.
+##### Xu B, Wang X, Yang CS, and Li Y (202X) “Machine learning-aided rapid estimation of multi-level capacity of flexure-identified circular concrete bridge columns with corroded reinforcement.” Journal of Structural Engineering, R1 under review.
 
 ## [[SDEE]_Fractional_Order_IMs](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BSDEE%5D_Fractional_Order_IMs)
 ###### MATLAB Codes for calculating a series of novel fractional order seismic intensity measures in Wang et al. (2019):
